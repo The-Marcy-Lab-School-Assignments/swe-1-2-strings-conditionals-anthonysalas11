@@ -34,7 +34,8 @@ const happyBirthdayPet = (breed, age) => {
 
 };
 
-const funTypes = () => {
+const funTypes = (jsType) => {
+
 };
 
 const rounder = () => {
